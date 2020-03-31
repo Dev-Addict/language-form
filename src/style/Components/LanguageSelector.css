@@ -1,0 +1,19 @@
+.language-selector-icon {
+    transform: scale(2);
+    margin: 15px !important;
+}
+
+.selected {
+     transform: scale(2.5);
+     border: 1px #000 solid;
+ }
+
+.language-selector-content {
+    display: inline;
+    font-size: 26px;
+}
+
+.language-selector-icons {
+    display: inline;
+    float: right;
+}

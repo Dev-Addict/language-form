@@ -1,0 +1,15 @@
+.field-container {
+    margin-bottom: 10px;
+}
+
+.field-label {
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.field-input {
+    border: 2px solid #7f8c8d;
+    padding: 5px;
+    border-radius: 5px;
+}
